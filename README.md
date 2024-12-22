@@ -1,3 +1,4 @@
+![Jim as Cute Man Header](https://cdn.bsky.app/img/banner/plain/did:plc:xz53xjnkiaxr4rcdkv5gv4zj/bafkreiaskkdq6xnitrnipapclmcq7uulpmczywoxe4e6quhkkehuzpvfbu@jpeg)
 
 ### Glad to see you here!  
 Good to see you! I'm James "Jim" Ed Randson. I'm a part-time Linux developer who works with Python and GTK. I also started Everything with Jim, I maintain the Runa Inoue SUSE Repository and runa-aur (coming soon), and I'm a graphics designer. In the past, I was a web developer and I currently study at [Indonesia Open University](https://ut.ac.id), where I'm enrolled in the undergraduate Information Systems Study Program. I'm also a part-time contributor at the [Pacstall Repo](https://github.com/pacstall/pacstall-programs).
