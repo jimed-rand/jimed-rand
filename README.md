@@ -6,6 +6,7 @@ Good to see you! I'm James "Jim" Ed Randson. I'm now a part-time software develo
 ## Languages I work with
 Go, Shell/Bash, Java, C++, and Vue.js (JavaScript) — depending on the project I'm currently building.
 
+## Contact me
 When you need me, you can contact me via [my campus mail (only for academic purposes or legitimate identity verification as a student of Indonesia Open University)](mailto:053476233@ecampus.ut.ac.id), [my Disroot mailing, it's for everyone and fediverse enthusiasm](mailto:jimedrand@disroot.org), or [my Autistici mailing, it's for everyone too](mailto:jimedrand@autistici.org).
 
 ## My visitor stats  
