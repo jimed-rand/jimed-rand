@@ -1,1 +1,1 @@
-This folder uses for dorpping image files. Use with carefully!
+This folder is used for dropping image files. Use it carefully!
