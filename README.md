@@ -7,7 +7,7 @@ Good to see you! I'm James "Jim" Ed Randson. I'm now a part-time software develo
 Go, Shell/Bash, Java, C++, Vue.js (JavaScript), and others — depending on the project I'm currently building.
 
 ## Contact me
-I am listed so much contact information on [my biography pages at openSUSE Wiki](https://en.opensuse.org/User:Jimed-rand), so feel free to contact me in many ways. But, do not contact me on the contact list that marked `not priority` or `abandoned`because I cannot response to your message, be better to reach me at The Fediverse (ActivityPub) or emails are appreciated.
+I am listed so much contact information on [my biography pages at openSUSE Wiki](https://en.opensuse.org/User:Jimed-rand), so feel free to contact me in many ways. But, do not contact me on the contact list that marked `not priority` or `abandoned` because I cannot response to your message, be better to reach me at The Fediverse (ActivityPub) or emails are appreciated.
 
 ## My visitor stats  
 ![Profile views counter](https://komarev.com/ghpvc/?username=jimed-rand&&style=flat-square)
